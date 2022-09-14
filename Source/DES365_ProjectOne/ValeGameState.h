@@ -6,6 +6,7 @@
 #include "GameFramework/GameStateBase.h"
 #include "ValeGameState.generated.h"
 
+
 /**
  * 
  */
@@ -19,7 +20,7 @@ public:
 	UPROPERTY(BlueprintReadWrite, EditDefaultsOnly)
 		bool bGamePaused = false;
 
-	
+		
 
 	
 };
